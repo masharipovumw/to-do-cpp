@@ -1,0 +1,3 @@
+D:\projecs\Mustaqil-ish\Mustaqil-ish\x64\Debug\Mustaqil-ish.vcxproj.AssemblyReference.cache
+D:\projecs\Mustaqil-ish\Mustaqil-ish\x64\Debug\Mustaqilish.MyForm.resources
+D:\projecs\Mustaqil-ish\Mustaqil-ish\x64\Debug\Mustaqil-ish.vcxproj.GenerateResource.cache
